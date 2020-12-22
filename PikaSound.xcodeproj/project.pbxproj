@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D25DB1B12591E1E9007248B0 /* pikasc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1B02591E1E8007248B0 /* pikasc.mp3 */; };
+		D25DB1B22591E1E9007248B0 /* pikasc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1B02591E1E8007248B0 /* pikasc.mp3 */; };
+		D25DB1B32591E1E9007248B0 /* pikasc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1B02591E1E8007248B0 /* pikasc.mp3 */; };
+		D25DB1B82591E331007248B0 /* Pikachu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1B72591E331007248B0 /* Pikachu.mp3 */; };
+		D25DB1B92591E331007248B0 /* Pikachu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1B72591E331007248B0 /* Pikachu.mp3 */; };
+		D25DB1BA2591E331007248B0 /* Pikachu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1B72591E331007248B0 /* Pikachu.mp3 */; };
+		D25DB1BF2591E3F6007248B0 /* pikachu0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1BE2591E3F6007248B0 /* pikachu0.mp3 */; };
+		D25DB1C02591E3F6007248B0 /* pikachu0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1BE2591E3F6007248B0 /* pikachu0.mp3 */; };
+		D25DB1C12591E3F6007248B0 /* pikachu0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D25DB1BE2591E3F6007248B0 /* pikachu0.mp3 */; };
 		D2A9D794258FB6E400C193F7 /* PikaSound WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = D2A9D793258FB6E400C193F7 /* PikaSound WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		D2A9D79A258FB6E400C193F7 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2A9D798258FB6E400C193F7 /* Interface.storyboard */; };
 		D2A9D79C258FB6E500C193F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2A9D79B258FB6E500C193F7 /* Assets.xcassets */; };
@@ -16,6 +25,9 @@
 		D2A9D7AC258FB6E500C193F7 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A9D7AB258FB6E500C193F7 /* NotificationController.swift */; };
 		D2A9D7AE258FB6E500C193F7 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A9D7AD258FB6E500C193F7 /* ComplicationController.swift */; };
 		D2A9D7B0258FB6E600C193F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2A9D7AF258FB6E600C193F7 /* Assets.xcassets */; };
+		D2A9D7C4258FBB6B00C193F7 /* pika.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D2A9D7C3258FBB6B00C193F7 /* pika.mp3 */; };
+		D2A9D7C5258FBB6B00C193F7 /* pika.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D2A9D7C3258FBB6B00C193F7 /* pika.mp3 */; };
+		D2A9D7C6258FBB6B00C193F7 /* pika.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D2A9D7C3258FBB6B00C193F7 /* pika.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +73,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D25DB1B02591E1E8007248B0 /* pikasc.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pikasc.mp3; path = ../../../Downloads/pikasc.mp3; sourceTree = "<group>"; };
+		D25DB1B72591E331007248B0 /* Pikachu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Pikachu.mp3; path = ../../../Downloads/Pikachu.mp3; sourceTree = "<group>"; };
+		D25DB1BE2591E3F6007248B0 /* pikachu0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pikachu0.mp3; path = ../../../Downloads/pikachu0.mp3; sourceTree = "<group>"; };
 		D2A9D78F258FB6E400C193F7 /* PikaSound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PikaSound.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2A9D793258FB6E400C193F7 /* PikaSound WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PikaSound WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2A9D799258FB6E400C193F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
@@ -74,6 +89,7 @@
 		D2A9D7AF258FB6E600C193F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2A9D7B1258FB6E600C193F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2A9D7B2258FB6E600C193F7 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		D2A9D7C3258FBB6B00C193F7 /* pika.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pika.mp3; path = ../../../Downloads/pika.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +135,10 @@
 		D2A9D7A6258FB6E500C193F7 /* PikaSound WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				D25DB1BE2591E3F6007248B0 /* pikachu0.mp3 */,
+				D25DB1B72591E331007248B0 /* Pikachu.mp3 */,
+				D25DB1B02591E1E8007248B0 /* pikasc.mp3 */,
+				D2A9D7C3258FBB6B00C193F7 /* pika.mp3 */,
 				D2A9D7A7258FB6E500C193F7 /* InterfaceController.swift */,
 				D2A9D7A9258FB6E500C193F7 /* ExtensionDelegate.swift */,
 				D2A9D7AB258FB6E500C193F7 /* NotificationController.swift */,
@@ -229,6 +249,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2A9D7C4258FBB6B00C193F7 /* pika.mp3 in Resources */,
+				D25DB1B82591E331007248B0 /* Pikachu.mp3 in Resources */,
+				D25DB1B12591E1E9007248B0 /* pikasc.mp3 in Resources */,
+				D25DB1BF2591E3F6007248B0 /* pikachu0.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -238,6 +262,10 @@
 			files = (
 				D2A9D79C258FB6E500C193F7 /* Assets.xcassets in Resources */,
 				D2A9D79A258FB6E400C193F7 /* Interface.storyboard in Resources */,
+				D2A9D7C5258FBB6B00C193F7 /* pika.mp3 in Resources */,
+				D25DB1B22591E1E9007248B0 /* pikasc.mp3 in Resources */,
+				D25DB1B92591E331007248B0 /* Pikachu.mp3 in Resources */,
+				D25DB1C02591E3F6007248B0 /* pikachu0.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +274,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2A9D7B0258FB6E600C193F7 /* Assets.xcassets in Resources */,
+				D25DB1B32591E1E9007248B0 /* pikasc.mp3 in Resources */,
+				D25DB1C12591E3F6007248B0 /* pikachu0.mp3 in Resources */,
+				D25DB1BA2591E331007248B0 /* Pikachu.mp3 in Resources */,
+				D2A9D7C6258FBB6B00C193F7 /* pika.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,12 +523,14 @@
 		D2A9D7BE258FB6E600C193F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VR27H84GFD;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mattef.PikaSound;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -504,12 +538,14 @@
 		D2A9D7BF258FB6E600C193F7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VR27H84GFD;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.mattef.PikaSound;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
